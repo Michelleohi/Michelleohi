@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)(https://devtechnosys.com/insights/wp-content/uploads/2022/05/machine-learning-app-development.gif)
 <h1 align="center">Hi 👋, I'm Michelle Ohikhena</h1>
-<h3 align="center">A passionate student learning about Machine learning and AI</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)">
+<h3 align="center">A student learning about Machine learning and AI</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelleohi&label=Profile%20views&color=0e75b6&style=flat" alt="michelleohi" /> </p>
