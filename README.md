@@ -1,5 +1,5 @@
 ![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
-<h1 align="center">Hi 👋, I'm Michelle Ohikhena</h1>
+<h1 align="center">Hi there! I'm Michelle Ohikhena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> </h1>
 <h3 align="center">A student learning about Machine learning and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
 
